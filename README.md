@@ -4,10 +4,10 @@ Este repositorio contiene el archivo **Modificadores de acceso en Python.pdf**, 
 
 ## 📚 Información del trabajo
 
-* **Curso:** Programación Orientada a Objetos
+* **Curso:** Programación Orientada a Objetos grupo 8
 * **Tema:** Modificadores de acceso en Python
 * **Profesor:** Néstor Germán Bolívar Pulgarín
-* **Fecha de entrega:** 25 de septiembre
+* **Fecha de entrega:** 28 de septiembre
 
 
 ## ✒️ Autor
