@@ -1,6 +1,10 @@
 # Taller: Modificadores de Acceso en Python
 
-Este repositorio contiene la solución a los **20 ejercicios** del taller de Programación Orientada a Objetos en Python, enfocado en **modificadores de acceso, encapsulación, propiedades, herencia, composición y buenas prácticas**.
+Este repositorio contiene el resumen del **PDF ADJUNTO** con la solución a los **20 ejercicios** del taller de Programación Orientada a Objetos en Python.
+
+# NOTA IMPORTANTE
+
+**ESTE README FUE HECHO MEDIANTE IA CON EL UNICO OBJETIVO DE RESUMIR LA INFORMACION DEL PDF ADJUNTO CON LAS RESPUESTAS ORIGINALES HECHAS POR MI, ESTE README SE HIZO A RAZON DE LA ACLARACION DADA EN CLASE**
 
 ---
 
