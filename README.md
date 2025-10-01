@@ -262,7 +262,3 @@ c.inc()  # tick
 print(c.n)  # 2
 ```
 
----
-
-## ✨ Autor
-**Sebastián Triana**
